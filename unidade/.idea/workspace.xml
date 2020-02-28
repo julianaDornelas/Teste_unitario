@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1ba5ce3-391f-49fa-a974-87d5188e3a1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="89" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XjEQkdXeiwNwwKYj9gpvbBVfJD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/impacta-master" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Juliana\Documents\workspace\unidade\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductConsultMockTest">
+    <configuration name="Product" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unidade" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Product" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductConsultMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unidade" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductConsultMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductConsultMockTest.testeprazoValidadeMock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unidade" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductConsultMockTest" />
+      <option name="METHOD_NAME" value="testeprazoValidadeMock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product.testeprazoValidadeNOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unidade" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Product" />
+      <option name="METHOD_NAME" value="testeprazoValidadeNOK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product.testestoqueDeProdutoFaltante" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unidade" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Product" />
+      <option name="METHOD_NAME" value="testestoqueDeProdutoFaltante" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductConsultMockTest" />
+        <item itemvalue="JUnit.ProductConsultMockTest.testeprazoValidadeMock" />
+        <item itemvalue="JUnit.Product" />
+        <item itemvalue="JUnit.Product.testestoqueDeProdutoFaltante" />
+        <item itemvalue="JUnit.Product.testeprazoValidadeNOK" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1ba5ce3-391f-49fa-a974-87d5188e3a1d" name="Default Changelist" comment="" />
+      <created>1581551089630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581551089630</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582849463927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582849463927" />
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582744321788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1582744321788" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1582854820326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582854820326" />
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582852876524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582852876524" />
+    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582852907187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582852907187" />
+    <state x="526" y="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581888688304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1581888688304" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582847335592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582847335592" />
+    <state width="1306" height="247" key="GridCell.Tab.0.bottom" timestamp="1582856433158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582856433158" />
+    <state width="1306" height="247" key="GridCell.Tab.0.center" timestamp="1582856433158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="247" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582856433158" />
+    <state width="1306" height="247" key="GridCell.Tab.0.left" timestamp="1582856433157">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="247" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582856433157" />
+    <state width="1306" height="247" key="GridCell.Tab.0.right" timestamp="1582856433158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="247" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582856433158" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1582765757406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582765757406" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1582765757406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582765757406" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1582765757406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582765757406" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1582765757406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582765757406" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1582849684899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582849684899" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1582760991359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582760991359" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1582760985510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582760985510" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unidade$Product_testeprodutoPromocao.ic" NAME="Product.testeprodutoPromocao Coverage Results" MODIFIED="1582763480412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/unidade$Product.ic" NAME="Product Coverage Results" MODIFIED="1582845993740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/unidade$Product_testeprazoValidadeOK.ic" NAME="Product.testeprazoValidadeOK Coverage Results" MODIFIED="1582765286588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
